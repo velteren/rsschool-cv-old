@@ -23,4 +23,12 @@ var isAnagram = function(test, original) {
   return (word1 == word2)
 };
 ```
+#### Work experience
+* asap
 
+#### Education background
+* Incomplete higher education
+* Self-education on online platforms
+
+#### Knowledge of English
+* intermediate (B1)
